@@ -1,0 +1,8 @@
+### create user
+POST http://localhost:8000/api/user/create
+Content-Type: application/json
+
+{
+    "nama": "Gilang",
+    "email": "febriansyahg22@gmail.com"
+}
